@@ -1,0 +1,45 @@
+@page
+@model BulKyWebRezor_Temp.Pages.Categories.Create
+@{
+    ViewData["Title"] = "Create Category";
+}
+
+<form method="post">
+    <divc class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2>@ViewData["Title"]</h2>
+            <hr>
+        </div>
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="nb=3 row p-1">
+            <label asp-for="Category.Name" class="p-0"></label>
+            <input asp-for="Category.Name" type="text" class="form-control">
+            <span asp-validation-for="Category.Name"  class="text-danger"></span>
+        </div>
+        <div></div>
+        <div class="nb=3 row p-1">
+            <label asp-for="Category.DisplayOrder" class="p-0"></label>
+            <input asp-for="Category.DisplayOrder" type="text" class="form-control">
+            <span asp-validation-for="Category.DisplayOrder" class="text-danger" ></span>
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-primary form-control"> Create</button>
+            </div>
+            <div class="col-6 col-md-3">
+                <a  asp-page="/categories/index" class="btn btn-secondry border form-control">
+                    Back To List
+                </a>
+            </div>
+        </div>
+        @* <partial name="_ValidationScriptsPartial" />  *@
+
+        </div>
+</form>
+
+ @section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial"); 
+    }
+} 

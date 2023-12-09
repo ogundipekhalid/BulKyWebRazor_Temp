@@ -1,0 +1,11 @@
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\bin\Debug\net6.0\Bulky.Utility.deps.json
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\bin\Debug\net6.0\Bulky.Utility.dll
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\bin\Debug\net6.0\Bulky.Utility.pdb
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.AssemblyInfoInputs.cache
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.AssemblyInfo.cs
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.dll
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\obj\Debug\net6.0\refint\Bulky.Utility.dll
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\obj\Debug\net6.0\Bulky.Utility.pdb
+c:\Users\owner\Desktop\BulKyWebRazor_Temp\Bulky.Utility\obj\Debug\net6.0\ref\Bulky.Utility.dll
